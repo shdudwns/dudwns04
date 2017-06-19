@@ -20,7 +20,7 @@ TSFurnace:
 TSMine:
   121.0.122.10: DTS서버-jun04
 TSNoColor:
-  121.0.122.10: DTS서버-jun04
+  121.0.12f2.10: DTS서버-jun04
 TSNoSpam:
   121.0.122.10: DTS서버-jun04
 TSPayToHome:
@@ -46,7 +46,7 @@ TSSponsor:
 TSPvp:
   121.0.122.10: DTS서버-jun04
 TSServerManager:
-  121.78.158.231: DTS서버-jun
+  121.78.158.231: DTS서버-jun04
 TSPackage:
   121.0.122.10: DTS서버-jun
 TSFindingThing:
