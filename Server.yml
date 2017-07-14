@@ -4,11 +4,11 @@ TSGuild:
 TSAnnounce:
   121.0.122.10: DTS서버-jun04
 TSBox:
-  121.78.158.231: DTS서버-jun0
+  27.102.101.108: DTS서버-jun0
   61.14.209.43: 아리아크래프트서버-구름
   121.0.122.37: 마인네트워크-허스키
 TSBurningEvent:
-  121.0.122.10: DTS서버-jun04
+  27.102.101.108: DTS서버-jun04
 TSCoupon:
   121.0.122.10: DTS-jun04
 TSDontDropCrops:
@@ -18,7 +18,7 @@ TSFriend:
 TSFurnace:
   121.0.122.10: DTS서버-jun04
 TSMine:
-  121.0.122.10: DTS서버-jun04
+  27.102.101.108: DTS서버-jun04
 TSNoColor:
   121.0.12f2.10: DTS서버-jun04
 TSNoSpam:
@@ -26,31 +26,31 @@ TSNoSpam:
 TSPayToHome:
   121.0.122.10: DTS서버-jun04
 TSPrefix:
-  121.0.122.10: DTS서버-jun04
+  27.102.101.108: DTS서버-jun04
 TSProposer:
   121.0.122.10: DTS서버-hyunwoo
 TSProtectChest:
   121.0.122.10: DTS서버-jun04
 TSPersonalShop:
-  121.78.158.231: DTS서버-jun04
+  27.102.101.108: DTS서버-jun04
 TSSmartShop:
-  121.0.122.10: DTS서버-jun04
+  27.102.101.108: DTS서버-jun04
 TSTimeToBanCommands:
-  121.0.122.10: DTS서버-jun04
+  27.102.101.108: DTS서버-jun04
 TSTimeBroadCaster:
-  121.78.158.231: DTS서버-jun04
+  27.102.101.108: DTS서버-jun04
 TSTutorial:
-  121.0.122.10: DTS서버-jun04
+  27.102.101.108: DTS서버-jun04
 TSSponsor:
-  121.78.158.231: DTS서버-jun04
+  27.102.101.108: DTS서버-jun04
 TSPvp:
   121.0.122.10: DTS서버-jun04
 TSServerManager:
-  121.78.158.231: DTS서버-jun04
+  27.102.101.108: DTS서버-jun04
 TSPackage:
   121.0.122.10: DTS서버-jun
 TSFindingThing:
-  121.78.158.231: DTS서버-jun04
+  27.102.101.108: DTS서버-jun04
 TSSuddenlyQuiz:
   121.0.122.10: DTS서버-jun04
 ...
